@@ -17,9 +17,6 @@ The Unified Event Coordination Platform is a versatile, user-friendly applicatio
 ### Mapping Services:
 - Integrates mapping functionalities for event location visualization.
 
-### Supply Stock and Requests:
-- Manages supply tracking and handles stock requests for events.
-
 ### Scheduling and Attendance:
 - Tools for scheduling events and tracking attendance.
 - Provides options for check-ins via scannable QR codes or barcodes.
