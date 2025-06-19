@@ -1,7 +1,7 @@
 # Unified Event Coordination Platform
 
 ## Objective
-The Unified Event Coordination Platform is a versatile, user-friendly application designed for organizing events, with a particular focus on union strike coordination. The platform prioritizes simplicity, accessibility, and professionalism, making it adaptable for various users and event types.
+The Unified Event Coordination Platform is a versatile, user-friendly application designed for organizing events. The platform prioritizes simplicity, accessibility, and professionalism, making it adaptable for various users and event types.
 
 ## Key Features
 
